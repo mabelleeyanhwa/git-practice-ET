@@ -5,6 +5,6 @@ Changes proposed in this pull request:
 -
 -
 
-[ ] Passes unit tests
-[ ] Linting checks passes
+- [ ] Passes unit tests
+- [ ] Linting checks passes
  
